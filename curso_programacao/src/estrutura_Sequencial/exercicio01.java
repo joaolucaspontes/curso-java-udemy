@@ -1,8 +1,8 @@
-package curso_programacao;
+package estrutura_Sequencial;
 
 import java.util.Locale;
 
-public class exercicio1 {
+public class exercicio01 {
 
 	public static void main(String[] args) {
 		
